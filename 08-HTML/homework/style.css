@@ -1,0 +1,39 @@
+body {
+    background: url(https://img.freepik.com/foto-gratis/sarten-vacia-especias-variadas-mesa-negra_1220-561.jpg?w=2000) no-repeat center center fixed ;
+    background-size: cover ;
+}
+
+h1 {
+    background-color: blue;
+    color: rgb(251, 255, 0);
+}
+
+.divClass {
+    color: aqua;
+}
+
+.flex-contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: salmon;
+    font-size: 18px;
+    padding: 50px;
+    border-color: 10px solid #fff;
+    border-style: double;
+    font-style: monospace;
+}
+
+#spanID {
+    margin: 50px;
+}
